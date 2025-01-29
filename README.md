@@ -7,4 +7,4 @@ To view .html files, click the project name and download the file, then open the
   <p><b>Clustering:</b> involved segmenting a bank's customers to help the bank upgrade the service delivery model and ensure that customers' queries were resolved faster</p>
   <p><b>Decision Trees Random Forest:</b> This project involved identifying which leads were more likely to convert to paid customers based on attributes of leads and their interaction details</p>
   <p><b>ANN & CNN:</b> This project involved recognizing street view housing number digits using artificial and convolutional neural networks</p>
-  <p><b>Reccomendation Systems:</b> This project involved recommending the best Amazon products available to users based on past rating data using recommendation systems techniques</p>
+  <p><b>Recommendation Systems:</b> This project involved recommending the best Amazon products available to users based on past rating data using recommendation systems techniques</p>
